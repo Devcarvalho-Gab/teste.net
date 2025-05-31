@@ -1,0 +1,7 @@
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.csproj.AssemblyReference.cache
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.AssemblyInfoInputs.cache
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.AssemblyInfo.cs
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.csproj.CoreCompileInputs.cache
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arklok\Documents\PackagingAPI\obj\Debug\net6.0\PackagingAPI.MvcApplicationPartsAssemblyInfo.cache
